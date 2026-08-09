@@ -65,7 +65,7 @@ The detailed project documentation is available in the repository.
 ## Project Links
 
 **Live Dashboard:**  
-_Add published dashboard link here._
+
 
 **Project Documentation:**  
-_Add documentation link here._
+
