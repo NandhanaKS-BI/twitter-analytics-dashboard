@@ -53,7 +53,7 @@ Shows the monthly average engagement rate trend for tweets with media content an
 
 ### Task 6 – Top 10 Tweets by Engagement
 
-Identifies the top 10 tweets based on total engagement using the required internship filters and visibility conditions.
+Identifies the top 10 tweets based on total engagement, calculated as the sum of retweets and likes, using the required internship filters and visibility conditions.
 
 ## Data Preparation
 
@@ -89,12 +89,11 @@ User profile information required for Task 6 was not available in the provided d
 
 ## Project Links
 
-**Live Dashboard / Hosted URL:**
-https://app.powerbi.com/links/RM0mvDx8o4?ctid=8e264576-b9fc-4c76-b018-2ff84125859b&pbi_source=linkShare
-
-**Google Drive Dataset:**
-https://docs.google.com/spreadsheets/d/1jeGZX3IyBPfopkadfay-M2cgboR9MxrU/edit?usp=sharing&ouid=113351234268593457644&rtpof=true&sd=true
-
+- **Live Dashboard / Hosted URL:** [View Power BI Dashboard](https://app.powerbi.com/links/RM0mvDx8o4?ctid=8e264576-b9fc-4c76-b018-2ff84125859b&pbi_source=linkShare)
+  
+- **GitHub Repository:** [View GitHub Repository](https://github.com/NandhanaKS-BI/twitter-analytics-dashboard)
+  
+- **Google Drive Dataset:** [View Dataset](https://docs.google.com/spreadsheets/d/1jeGZX3IyBPfopkadfay-M2cgboR9MxrU/edit?usp=sharing&ouid=113351234268593457644&rtpof=true&sd=true)
 
 
 ## Project Outcome
