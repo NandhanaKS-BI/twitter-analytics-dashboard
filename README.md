@@ -2,70 +2,104 @@
 
 ## Project Overview
 
-An interactive Twitter Data Analytics Dashboard developed as part of an internship project, building on the original training project and dataset.
+An interactive **Twitter Data Analytics Dashboard** developed using **Microsoft Power BI** to analyze tweet activity, engagement, user interactions, media performance, monthly engagement trends, and high-performing tweets.
 
-The dashboard analyzes tweet activity, engagement, user interactions, media performance, monthly engagement trends, and top-performing tweets using Power BI.
-
-## Objectives
-
-- Analyze tweet interactions and engagement.
-- Compare engagement across tweet categories.
-- Analyze media interactions by day of the week.
-- Compare replies, retweets, and likes.
-- Analyze monthly engagement rate trends.
-- Identify the top 10 tweets by engagement.
+This project implements the **six internship tasks** using the provided Twitter Analytics dataset.
 
 ## Tools & Technologies
 
-- Power BI
-- Power Query
-- DAX
-- GitHub
-
-## Internship Tasks
-
-1. Tweet Interaction Breakdown by Category
-2. Engagement Rate Comparison
-3. Media Interaction by Day of Week
-4. Replies, Retweets & Likes Comparison
-5. Monthly Engagement Rate Trend
-6. Top 10 Tweets by Engagement
+* Microsoft Power BI
+* Power Query
+* DAX
+* GitHub
 
 ## Dashboard Pages
 
-- Home
-- Navigation
-- Overview
-- Insights
-- What is Twitter?
-- Tweet Interactions
-- Key KPIs
-- Media Insights
-- Monthly Engagement Trend
-- Engagement Metrics Comparison
-- Top Tweets
-- Task Summary
+* Home
+* Navigation
+* Key KPIs
+* Insights
+* Overview
+* Tweet Interactions
+* Engagement Rate Comparison
+* Media Insights
+* Replies, Retweets & Likes Comparison
+* Monthly Engagement Rate Trend
+* Top Tweets
+* What is Twitter?
+* Task Summary
+
+## Internship Tasks
+
+### Task 1 – Tweet Interaction Breakdown by Category
+
+Analyzes URL clicks, user profile clicks, and hashtag clicks across tweet categories such as media, links, and hashtags using the required internship filters and visibility conditions.
+
+### Task 2 – Engagement Rate Comparison
+
+Compares average engagement rates between tweets with app opens and tweets without app opens using the required filters and time conditions.
+
+### Task 3 – Media Interaction by Day of Week
+
+Analyzes media views and media engagements across different days of the week using a dual-axis visualization and the required internship filters.
+
+### Task 4 – Replies, Retweets & Likes Comparison
+
+Compares total replies, retweets, and likes for tweets posted between June and August 2020.
+
+### Task 5 – Monthly Engagement Rate Trend
+
+Shows the monthly average engagement rate trend for tweets with media content and tweets without media content.
+
+### Task 6 – Top 10 Tweets by Engagement
+
+Identifies the top 10 tweets based on total engagement using the required internship filters and visibility conditions.
+
+## Data Preparation
+
+The dataset was prepared using Power Query. The main preparation steps included:
+
+* Handling missing values
+* Removing duplicate records
+* Handling date/time errors
+* Creating date and time-related fields
+* Creating word count and character count fields
+* Creating analytical filter conditions
+* Preparing calculated measures required for the dashboard
 
 ## Key Insights
 
-- Tweet activity varies across different posting hours.
-- Media, link, and hashtag tweets show different levels of interaction.
-- Media engagement varies across days of the week.
-- Monthly engagement rates show noticeable changes over time.
-- The Top 10 analysis highlights the highest-performing tweets by engagement.
+The dashboard helps identify:
 
-## Dataset
+* Tweet activity patterns across posting hours
+* Differences in interaction across tweet categories
+* Media engagement patterns across days of the week
+* Monthly engagement rate trends
+* Tweets generating the highest overall engagement
 
-The project uses the same Twitter dataset from the original training project, as required by the internship guidelines.
+## Dataset Limitations
 
-## Project Documentation
+Some required internship conditions result in limited or unavailable records in the provided dataset.
 
-The detailed project documentation is available in the repository.
+For example, Task 1 may return no records when the required **Word Count > 40** condition is applied.
+
+App Opens information was also unavailable/non-populated in the provided source data for the relevant analysis.
+
+User profile information required for Task 6 was not available in the provided dataset, so user profile details could not be displayed.
 
 ## Project Links
 
-**Live Dashboard:**  
+**Live Dashboard / Hosted URL:**
+*Add link here*
 
+**Google Drive Dataset:**
+*Add link here*
 
-**Project Documentation:**  
+**Project Report:**
+*Submitted separately as required*
+
+## Project Outcome
+
+The project implements all six internship tasks as additional analytical features on the Twitter Analytics project and presents the results through an interactive Power BI dashboard.
+
 
