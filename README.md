@@ -90,13 +90,12 @@ User profile information required for Task 6 was not available in the provided d
 ## Project Links
 
 **Live Dashboard / Hosted URL:**
-*Add link here*
+https://app.powerbi.com/links/RM0mvDx8o4?ctid=8e264576-b9fc-4c76-b018-2ff84125859b&pbi_source=linkShare
 
 **Google Drive Dataset:**
-*Add link here*
+https://docs.google.com/spreadsheets/d/1jeGZX3IyBPfopkadfay-M2cgboR9MxrU/edit?usp=sharing&ouid=113351234268593457644&rtpof=true&sd=true
 
-**Project Report:**
-*Submitted separately as required*
+
 
 ## Project Outcome
 
